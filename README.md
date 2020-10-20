@@ -17,6 +17,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 [Gehring, J., Oertel, A., Vignon, É., Jullien, N., Besic, N. and Berne, A.: Microphysics and dynamics of snowfall associated with a warm conveyor belt over Korea, Atmos. Chem. Phys., 20(12), 7373–7392, doi:10.5194/acp-20-7373-2020, 2020.](https://dx.doi.org/10.5194/acp-20-7373-2020)
 
 [Lim, K.-S. S., Chang, E.-C., Sun, R., Kim, K., Tapiador, F. J. and Lee, G.: Evaluation of Simulated Winter Precipitation Using WRF-ARW during the ICE-POP 2018 Field Campaign, Weather Forecast., 35(5), 2199–2213, doi:10.1175/WAF-D-19-0236.1, 2020.](https://dx.doi.org/10.1175/WAF-D-19-0236.1)
+
 [Yu, T., Chandrasekar, V., Xiao, H. and Joshil, S. S.: Characteristics of Snow Particle Size Distribution in the PyeongChang Region of South Korea, Atmosphere, 11(10), 1093, doi:10.3390/atmos11101093, 2020.](https://dx.doi.org/10.3390/atmos11101093)
 
 ## 2018

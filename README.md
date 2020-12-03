@@ -13,6 +13,12 @@ Link: [Atmospheric Measurement Techniques](https://amt.copernicus.org/articles/s
 Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/special_issue10_1112.html)<br />
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
+
+## In review
+- **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)
+
+- **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data Discuss.**, https://doi.org/10.5194/essd-2020-134, in review, 2020. [Link](https://doi.org/10.5194/essd-2020-134) [PDF](https://essd.copernicus.org/preprints/essd-2020-134/essd-2020-134.pdf)
+
 ## 2020
 - **Gehring, J.**, Oertel, A., Vignon, É., Jullien, N., Besic, N. and Berne, A.: Microphysics and dynamics of snowfall associated with a warm conveyor belt over Korea, **Atmos. Chem. Phys.**, 20(12), 7373–7392, doi:10.5194/acp-20-7373-2020, 2020. [Link](https://dx.doi.org/10.5194/acp-20-7373-2020) [PDF](https://acp.copernicus.org/articles/20/7373/2020/acp-20-7373-2020.pdf)
   <details>
@@ -68,8 +74,3 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
   <summary>Abstract</summary>
   The 2018 Winter Olympic and Paralympic Games will be held in Pyeongchang, Korea, during February and March. We examined the near surface winds and wind gusts along the sloping surface at two outdoor venues in Pyeongchang during February and March using surface wind data. The outdoor venues are located in a complex, mountainous terrain, and hence the near-surface winds form intricate patterns due to the interplay between large-scale and locally forced winds. During February and March, the dominant wind at the ridge level is westerly; however, a significant wind direction change is observed along the sloping surface at the venues. The winds on the sloping surface are also influenced by thermal forcing, showing increased upslope flow during daytime. When neutral air flows over the hill, the windward and leeward flows show a significantly different behavior. A higher correlation of the wind speed between upper- and lower-level stations is shown in the windward region compared with the leeward region. The strong synoptic wind, small width of the ridge, and steep leeward ridge slope angle provide favorable conditions for flow separation at the leeward foot of the ridge. The gust factor increases with decreasing surface elevation and is larger during daytime than nighttime. A significantly large gust factor is also observed in the leeward region.
   </details>
-
-## In review
-- **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)
-
-- **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data Discuss.**, https://doi.org/10.5194/essd-2020-134, in review, 2020. [Link](https://doi.org/10.5194/essd-2020-134) [PDF](https://essd.copernicus.org/preprints/essd-2020-134/essd-2020-134.pdf)

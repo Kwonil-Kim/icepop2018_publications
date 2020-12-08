@@ -19,6 +19,8 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 
 - **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data Discuss.**, https://doi.org/10.5194/essd-2020-134, in review, 2020. [Link](https://doi.org/10.5194/essd-2020-134) [PDF](https://essd.copernicus.org/preprints/essd-2020-134/essd-2020-134.pdf)
 
+- **Planat, N.**, J. Gehring, É. Vignon, and A. Berne, 2020: Identification of snowfall microphysical processes from vertical gradients of polarimetric radar variables. **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-463, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-463) [PDF](https://amt.copernicus.org/preprints/amt-2020-463/amt-2020-463.pdf)
+
 ## 2020
 - **Gehring, J.**, Oertel, A., Vignon, É., Jullien, N., Besic, N. and Berne, A.: Microphysics and dynamics of snowfall associated with a warm conveyor belt over Korea, **Atmos. Chem. Phys.**, 20(12), 7373–7392, doi:10.5194/acp-20-7373-2020, 2020. [Link](https://dx.doi.org/10.5194/acp-20-7373-2020) [PDF](https://acp.copernicus.org/articles/20/7373/2020/acp-20-7373-2020.pdf)
   <details>

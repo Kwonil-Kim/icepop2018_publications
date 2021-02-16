@@ -13,13 +13,13 @@ Link: [Atmospheric Measurement Techniques](https://amt.copernicus.org/articles/s
 Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/special_issue10_1112.html)<br />
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
-## Accepted
-- **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data Discuss.**, https://doi.org/10.5194/essd-2020-134, accepted, 2020. [Link](https://doi.org/10.5194/essd-2020-134) [PDF](https://essd.copernicus.org/preprints/essd-2020-134/essd-2020-134.pdf)
-
 ## In review
 - **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)
 
 - **Planat, N.**, J. Gehring, É. Vignon, and A. Berne, 2020: Identification of snowfall microphysical processes from vertical gradients of polarimetric radar variables. **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-463, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-463) [PDF](https://amt.copernicus.org/preprints/amt-2020-463/amt-2020-463.pdf)
+
+## 2021
+- **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data**, 13, 417-433, doi:10.5194/essd-13-417-2021, 2021. [Link](https://doi.org/10.5194/essd-13-417-2021) [PDF](https://essd.copernicus.org/articles/13/417/2021/essd-13-417-2021.pdf)
 
 ## 2020
 - **Gehring, J.**, Oertel, A., Vignon, É., Jullien, N., Besic, N. and Berne, A.: Microphysics and dynamics of snowfall associated with a warm conveyor belt over Korea, **Atmos. Chem. Phys.**, 20(12), 7373–7392, doi:10.5194/acp-20-7373-2020, 2020. [Link](https://dx.doi.org/10.5194/acp-20-7373-2020) [PDF](https://acp.copernicus.org/articles/20/7373/2020/acp-20-7373-2020.pdf)

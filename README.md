@@ -13,10 +13,12 @@ Link: [Atmospheric Measurement Techniques](https://amt.copernicus.org/articles/s
 Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/special_issue10_1112.html)<br />
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
-## In review
-- **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)
+## In review, accepted
+- **Tsai, C.-L.**, Kim, K., Liou, Y.-C., Kim, J.-H., Lee, Y., and Lee, G.: Observational study for strong downslope wind event under fine weather condition during ICE-POP 2018, **Atmos. Chem. Phys. Discuss.**, https://doi.org/10.5194/acp-2021-100, in review, 2021. [Link](https://doi.org/10.5194/acp-2021-100) [PDF](https://acp.copernicus.org/preprints/acp-2021-100/acp-2021-100.pdf)
 
-- **Planat, N.**, J. Gehring, É. Vignon, and A. Berne, 2020: Identification of snowfall microphysical processes from vertical gradients of polarimetric radar variables. **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-463, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-463) [PDF](https://amt.copernicus.org/preprints/amt-2020-463/amt-2020-463.pdf)
+- **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, accepted, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)
+
+- **Planat, N.**, Gehring, J., Vignon, É., and Berne, A, 2020: Identification of snowfall microphysical processes from vertical gradients of polarimetric radar variables. **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-463, in review, 2020. [Link](https://doi.org/10.5194/amt-2020-463) [PDF](https://amt.copernicus.org/preprints/amt-2020-463/amt-2020-463.pdf)
 
 ## 2021
 - **Gehring, J.**, Ferrone, A., Billault–Roux, A.-C., Besic, N., Ahn, K. D., Lee, G., and Berne, A.: Radar and ground-level measurements of precipitation collected by EPFL during the ICE-POP 2018 campaign in South-Korea, **Earth Syst. Sci. Data**, 13, 417-433, doi:10.5194/essd-13-417-2021, 2021. [Link](https://doi.org/10.5194/essd-13-417-2021) [PDF](https://essd.copernicus.org/articles/13/417/2021/essd-13-417-2021.pdf)

@@ -14,6 +14,8 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
 ## In review, accepted
+- **Kim, K.**, Bang, W., Chang, E.-C., Tapiador, F. J., Tsai, C.-L., Jung, E., and Lee, G.: Impact of wind pattern and complex topography on snow microphysics during ICE-POP 2018, **Atmos. Chem. Phys. Discuss.**, https://doi.org/10.5194/acp-2021-128, in review, 2021. [Link](https://doi.org/10.5194/acp-2021-128) [PDF](https://acp.copernicus.org/preprints/acp-2021-128/acp-2021-128.pdf)
+
 - **Tsai, C.-L.**, Kim, K., Liou, Y.-C., Kim, J.-H., Lee, Y., and Lee, G.: Observational study for strong downslope wind event under fine weather condition during ICE-POP 2018, **Atmos. Chem. Phys. Discuss.**, https://doi.org/10.5194/acp-2021-100, in review, 2021. [Link](https://doi.org/10.5194/acp-2021-100) [PDF](https://acp.copernicus.org/preprints/acp-2021-100/acp-2021-100.pdf)
 
 - **Billault-Roux, A.-C.** and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer, **Atmos. Meas. Tech. Discuss.**, https://doi.org/10.5194/amt-2020-311, accepted, 2020. [Link](https://doi.org/10.5194/amt-2020-311) [PDF](https://amt.copernicus.org/preprints/amt-2020-311/amt-2020-311.pdf)

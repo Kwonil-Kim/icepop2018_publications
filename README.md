@@ -14,6 +14,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
 ## In review (or accepted)
+**Munchak, S. J.**, Schrom, R. S., Helms, C. N., and Tokay, A.: Snow Microphysical Retrieval from the NASA D3R Radar During ICE-POP 2018, Atmos. Meas. Tech. Discuss. [preprint], https://doi.org/10.5194/amt-2021-264, in review, 2021. [Link](https://amt.copernicus.org/preprints/amt-2021-264/) [PDF](https://amt.copernicus.org/preprints/amt-2021-264/amt-2021-264.pdf)
 
 ## 2021
 - **Billault-Roux, A.-C.**, and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer. **Atmos. Meas. Tech.**, 14, 2749–2769, doi:10.5194/amt-14-2749-2021, 2021. [Link](https://amt.copernicus.org/articles/14/2749/2021) [PDF](https://amt.copernicus.org/articles/14/2749/2021/amt-14-2749-2021.pdf)

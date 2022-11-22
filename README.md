@@ -12,7 +12,7 @@ Link: [Atmospheric Measurement Techniques](https://amt.copernicus.org/articles/s
 Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/special_issue10_1112.html)<br />
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
-## In review (or accepted)
+## Submitted
 - **Tsai, C.-L.**, Kim, K., Liou, Y.-C., and Lee, G.: High Resolution 3D Winds Derived from a Newly Developed WISSDOM Synthesis Scheme using Multiple Doppler Lidars and Observations, Atmos. Meas. Tech. Discuss. [preprint], https://doi.org/10.5194/amt-2022-218, in review, 2022. [Link](https://amt.copernicus.org/preprints/amt-2022-218/) [PDF](https://amt.copernicus.org/preprints/amt-2022-218/amt-2022-218.pdf)
 
 ## 2022

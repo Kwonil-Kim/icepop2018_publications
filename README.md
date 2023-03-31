@@ -14,7 +14,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 
 <!--- ## Submitted -->
 
-## 2023 (7)
+## 2023 (7 papers)
 - **Joe, P.**, Lee, G., and Kim, K.: The Challenges of Micro-Nowcasting and the Women’s Slope Style Event at the PyeongChang 2018 Olympic Winter Games, **Meteorol.**, 2(1), 107-127, doi:10.3390/meteorology2010008, 2023. [Link](https://doi.org/10.3390/meteorology2010008) [PDF](https://www.mdpi.com/2674-0494/2/1/8/pdf?version=1676535075)
   <details>
   <summary>Abstract</summary>
@@ -57,7 +57,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
   The WISSDOM (Wind Synthesis System using Doppler Measurements) synthesis scheme was developed to derive high-resolution 3-dimensional (3D) winds under clear-air conditions. From this variational-based scheme, detailed wind information was obtained from scanning Doppler lidars, automatic weather stations (AWSs), sounding observations, and local reanalysis datasets (LDAPS, Local Data Assimilation and Prediction System), which were utilized as constraints to minimize the cost function. The objective of this study is to evaluate the performance and accuracy of derived 3D winds from this modified scheme. A strong wind event was selected to demonstrate its performance over complex terrain in Pyeongchang, South Korea. The size of the test domain is 12×12 km2 extended up to 3 km a.m.s.l. (above mean sea level) height with a remarkably high horizontal and vertical resolution of 50 m. The derived winds reveal that reasonable patterns were explored from a control run, as they have significant similarity with the sounding observations. The results of intercomparisons show that the correlation coefficients between derived horizontal winds and sounding observations are 0.97 and 0.87 for u- and v-component winds, respectively, and the averaged bias (root mean square deviation, RMSD) of horizontal winds is between −0.78 and 0.09 (1.77 and 1.65) m s−1. The correlation coefficients between WISSDOM-derived winds and lidar QVP (quasi-vertical profile) are 0.84 and 0.35 for u- and v-component winds, respectively, and the averaged bias (RMSD) of horizontal winds is between 2.83 and 2.26 (3.69 and 2.92) m s−1. The statistical errors also reveal a satisfying performance of the retrieved 3D winds; the median values of wind directions are −5 to 5 (0 to 2.5)∘, the wind speed is approximately −1 to 3 m s−1 (−1 to 0.5 m s−1), and the vertical velocity is −0.2 to 0.6 m s−1 compared with the lidar QVP (sounding observations). A series of sensitivity tests with different weighting coefficients, radius of influence (RI) in interpolation, and various combination of different datasets were also performed. The results indicate that the present setting of the control run is the optimal reference to WISSDOM synthesis in this event and will help verify the impacts against various scenarios and observational references in this area.
   </details>
 
-## 2022 (9)
+## 2022 (9 papers)
 - **Grazioli, J.**, Ghiggi, G., Billault-Roux, A.-C., and Berne, A.: MASCDB, a database of images, descriptors and microphysical properties of individual snowflakes in free fall, **Sci. Data**, 9, 186, doi:10.1038/s41597-022-01269-7, 2022. [Link](https://doi.org/10.1038/s41597-022-01269-7) [PDF](https://www.nature.com/articles/s41597-022-01269-7.pdf)
   <details>
   <summary>Abstract</summary>
@@ -116,7 +116,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
   The microphysical parameters of snowfall directly impact hydrological and atmospheric models. During the International Collaborative Experiment hosted at the Pyeongchang 2018 Olympic and Paralympic Winter Games (ICE-POP 2018), dual-frequency radar retrievals of particle size distribution (PSD) parameters were produced and assessed over complex terrain. The NASA Dual-frequency Dual-polarized Doppler Radar (D3R) and a collection of second-generation Particle Size and Velocity (PARSIVEL2) disdrometer observations were used to develop retrievals. The conventional look-up table method (LUT) and random forest method (RF) were applied to the disdrometer data to develop retrievals for the volume-weighted mean diameter (Dm), the shape factor (mu), the normalized intercept parameter (Nw), the ice water content (IWC), and the snowfall rate (S). Evaluations were performed between the D3R radar and disdrometer observations using these two methods. The mean errors of the retrievals based on the RF method were small compared with those of the LUT method. The results indicate that the RF method is a promising way of retrieving microphysical parameters, because this method does not require any assumptions about the PSD of snowfall.
   </details>
 
-## 2021 (8)
+## 2021 (8 papers)
 - **Billault-Roux, A.-C.**, and Berne, A.: Integrated water vapor and liquid water path retrieval using a single-channel radiometer. **Atmos. Meas. Tech.**, 14, 2749–2769, doi:10.5194/amt-14-2749-2021, 2021. [Link](https://amt.copernicus.org/articles/14/2749/2021) [PDF](https://amt.copernicus.org/articles/14/2749/2021/amt-14-2749-2021.pdf)
   <details>
   <summary>Abstract</summary>
@@ -167,7 +167,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 
 
 
-## 2020 (8)
+## 2020 (8 papers)
 - **Gehring, J.**, Oertel, A., Vignon, É., Jullien, N., Besic, N. and Berne, A.: Microphysics and dynamics of snowfall associated with a warm conveyor belt over Korea, **Atmos. Chem. Phys.**, 20(12), 7373–7392, doi:10.5194/acp-20-7373-2020, 2020. [Link](https://dx.doi.org/10.5194/acp-20-7373-2020) [PDF](https://acp.copernicus.org/articles/20/7373/2020/acp-20-7373-2020.pdf)
   <details>
   <summary>Abstract</summary>
@@ -216,7 +216,7 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
   Snow particle size distribution (PSD) information is important in understanding the microphysics and quantitative precipitation estimation over complex terrain. Measurement and interpretation of the snow PSDs is a topic of active research. This study investigates snow PSDs during 3 year of observations from Parsivel2 disdrometers and precipitation imaging packages (PIP) at five different sites in the PyeongChang region of South Korea. Variabilities in the values of the density of snow (ρ), snowfall rate (S), and ice water content (IWC) are studied. To further understand the characteristics of snow PSD at different density and snowfall rate, the snow particle size distribution measurements are divided into six classes based on the density values of snowfall and five classes based on snowfall rates. The mean shape factors (Dm, log10Nw, and μ) of normalized gamma distribution are also derived based on different density and snowfall rate classes. The Dm decreases and log10Nw and μ increase as the density increases. The Dm and log10Nw increase and μ decreases with the increase of snowfall rate. The power-law relationship between ρ and Dm is obtained and the relationship between S and IWC is also derived.
   </details>
 
-## 2018 (1)
+## 2018 (1 paper)
 - **Lee, Y. H.**, Lee, G., Joo, S. and Ahn, K. D.: Observational study of surface wind along a sloping surface over mountainous terrain during winter, **Adv. Atmos. Sci.**, 35(3), 276–284, doi:10.1007/s00376-017-7075-5, 2018. [Link](https://dx.doi.org/10.1007/s00376-017-7075-5) [PDF](https://link.springer.com/content/pdf/10.1007/s00376-017-7075-5.pdf)
   <details>
   <summary>Abstract</summary>

@@ -13,6 +13,8 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 (Editor(s): GMD topical editors | Coordinator: GyuWon Lee)
 
 <!--- ## Submitted -->
+## 2025
+- **Shin, U.**, Park, S.-H., Skamarock, W., Lee, G., Lim, K.-S., Joh, M., 2025: Comparison of Numerical Characteristics in the Regional Model for Prediction Across Scales (MPAS) and Weather Research and Forecasting (WRF) Models Using Low-Level Wind Analysis During Heavy Snowfall Episodes Over Complex Terrain, **Mon. Wea. Rev.**, in press, doi:10.1175/MWR-D-24-0053.1, 2025. [Link](https://doi.org/10.1175/MWR-D-24-0053.1)
 
 ## 2023 (9 papers)
 - **Joe, P.**, Lee, G., and Kim, K.: The Challenges of Micro-Nowcasting and the Women’s Slope Style Event at the PyeongChang 2018 Olympic Winter Games, **Meteorol.**, 2(1), 107-127, doi:10.3390/meteorology2010008, 2023. [Link](https://doi.org/10.3390/meteorology2010008) [PDF](https://www.mdpi.com/2674-0494/2/1/8/pdf?version=1676535075)

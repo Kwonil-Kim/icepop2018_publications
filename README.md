@@ -14,7 +14,14 @@ Link: [Geoscientific Model Development](https://gmd.copernicus.org/articles/spec
 
 <!--- ## Submitted -->
 ## 2025
-- **Shin, U.**, Park, S.-H., Skamarock, W., Lee, G., Lim, K.-S., Joh, M., 2025: Comparison of Numerical Characteristics in the Regional Model for Prediction Across Scales (MPAS) and Weather Research and Forecasting (WRF) Models Using Low-Level Wind Analysis During Heavy Snowfall Episodes Over Complex Terrain, **Mon. Wea. Rev.**, in press, doi:10.1175/MWR-D-24-0053.1, 2025. [Link](https://doi.org/10.1175/MWR-D-24-0053.1)
+- **Shin, U.**, Park, S.-H., Skamarock, W., Lee, G., Lim, K.-S., Joh, M.: Comparison of Numerical Characteristics in the Regional Model for Prediction Across Scales (MPAS) and Weather Research and Forecasting (WRF) Models Using Low-Level Wind Analysis During Heavy Snowfall Episodes Over Complex Terrain, **Mon. Wea. Rev.**, in press, doi:10.1175/MWR-D-24-0053.1, 2025. [Link](https://doi.org/10.1175/MWR-D-24-0053.1)
+
+## 2024
+- **Lee, J.-W.**, Min, K.-H., Chung, K.-S., You, C.-R., Ke, C.-Y., and Lee, G.: Intercomparison of radar data assimilation systems for snowfall cases during the ICE-POP 2018, **Atmos. Res.**, 314, 107804, doi:10.1016/j.atmosres.2024.107804, 2025. [Link](https://doi.org/10.1016/j.atmosres.2024.107804)
+  <details>
+  <summary>Abstract</summary>
+  This study compares two data assimilation (DA) methods, the Local Ensemble Transform Kalman Filter (LETKF) and three-dimensional variational analysis (3DVAR), in the assimilation of high-resolution three-dimensional remote sensing data. Different observation operators are applied to each DA method to reflect its specific characteristics and to provide best analysis for precipitation forecast over complex terrain. Since radial velocity has a linear relationship with wind components, it applies relatively easily to both DA methods. However, reflectivity has a nonlinear relationship with model state variables and LETKF applies direct DA, while 3DVAR uses indirect DA. A detailed analysis of two specific snowfall cases using ICE-POP 2018 observational data reveals significant differences in wind field changes. In 3DVAR, strong convergence on the windward side and the rapid growth of water vapor into hydrometeors during the forecast period lead to an overestimation of precipitation. In contrast, LETKF improves the simulation of airflow over mountains and enhances precipitation accuracy, attributed to the background error covariance matrix and observation operator. For accurate winter precipitation forecasts over complex terrain, high-resolution data and advanced DA techniques like LETKF are necessary, as they greatly improve snowfall prediction accuracy.
+  </details>
 
 ## 2023 (9 papers)
 - **Joe, P.**, Lee, G., and Kim, K.: The Challenges of Micro-Nowcasting and the Women’s Slope Style Event at the PyeongChang 2018 Olympic Winter Games, **Meteorol.**, 2(1), 107-127, doi:10.3390/meteorology2010008, 2023. [Link](https://doi.org/10.3390/meteorology2010008) [PDF](https://www.mdpi.com/2674-0494/2/1/8/pdf?version=1676535075)
